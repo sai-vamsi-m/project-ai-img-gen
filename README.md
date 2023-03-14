@@ -1,17 +1,20 @@
+# AI Image Generation with DALL-E API and MERN Stack
 
-# AI MERN Image Generation
+AI image generation, an exciting and rapidly evolving field in the realm of artificial intelligence. In recent years, there has been a significant advancement in the capabilities of machine learning algorithms, particularly in the area of generative models. With the development of deep learning techniques, researchers have been able to create powerful AI models that can generate images that are nearly indistinguishable from real images. These AI image generation models have numerous potential applications in various fields, including entertainment, design, and advertising. 
 
-This project is a full stack web application developed using the *MERN* (MongoDB, Express.js, React, Node.js) stack that allows users to create AI generated images based on their input text using *DALL-E* API. The application also offers modern and minimal design with dynamic layout, hover effects, and sharing options with the community.
+This project was inspired by one of those powerful AI image generation model: OpenAI's DALL-E.
+
+This is a full-stack web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. This application allows users to create AI-generated images using OpenAI's DALL-E API, based on their input text. Additionally, the application offers a modern and minimal design with dynamic layouts, hover effects, and sharing options with the community.
 
 ***Features added :***
 
-* Generate images based on user's prompts.
+* Modern and minimal interface for easy navigation.
+* Surprise me! button.
 * Search functionality.
 * Download generated images to user's device.
-* Modern and minimal design for easy navigation and clean interface.
-* Dynamic layout that adjusts to different screen sizes.
 * Hover effects that generate user's prompt along with username and download button.
 * Share functionality to share the AI generated images with the community on the community section.
+
 ## 🧑‍💻 Tech Stack
 
 **Client:** HTML, TailwindCSS, JavaScript, React
@@ -19,6 +22,10 @@ This project is a full stack web application developed using the *MERN* (MongoDB
 **Server:** NodeJS, Express, MongoDB, Cloudinary
 
 **API:** OpenAI's DALL-E
+
+## Demo
+
+https://ai-image-gen-by-saivamsi.netlify.app/
 
 
 ## 📸 Screenshots
@@ -65,9 +72,10 @@ Building a modern and minimalistic design taught me about the importance of desi
 
 
 ## 🚀 About Me
-Hi there! I am Sai Vamsi, a final year B.Tech student in Artificial Intelligence at Vel Tech University. I have a strong passion for software development and Artificial Intelligence, and I'm proficient in C, C++, Java, and Python programming languages. I am also skilled in Full-stack Web Development using MERN stack.
+Hi there! I am Sai Vamsi, a final year computer science undergraduate with specialization in Artificial Intelligence at Vel Tech University, Chennai. I have a strong passion for software development, and Artificial Intelligence.
+
+I'm proficient in C, C++, Java, and Python programming languages. I also have expertise in Data Structures and Algorithms. Besides, I am a Full-stack Web Developer who is familiar with front-end development technologies like HTML, CSS, JavaScript, and React, and also back-end development with Node.js, Express.js, and MongoDB.
 
 On my GitHub profile, you can find a collection of projects that demonstrate my programming and development skills. 
 
 Thank you for taking the time to learn about me, and feel free to check out my projects on GitHub!
-
