@@ -53,7 +53,7 @@ Here is a step-by-step guide on how to use the application:
 
 - Upon visiting the home page, you will see a "Community Showcase" section with a search bar. Use the search bar to find images created by other users by entering keywords or usernames. Hover over any image to view the username, input prompt, and download icon.
 
-- Click on the `Create` button at the top right of the page to go to the "Create" section. Here, you can generate AI-generated images by providing a username and input prompt or by using the "Surprise Me" button to get ideas for image generation.
+- Click on the `Create` button at the top right of the page to go to the "Create" section. Here, you can generate AI-generated images by providing a username and input prompt or by using the `Surprise Me` button to get ideas for image generation.
 
 - After entering the necessary details, click on the `Generate` button. If the generated image is not satisfactory, click on the `Generate` button again until you get a desired image.
 
