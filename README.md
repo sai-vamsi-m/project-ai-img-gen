@@ -2,7 +2,7 @@
 
 AI image generation, an exciting and rapidly evolving field in the realm of artificial intelligence. In recent years, there has been a significant advancement in the capabilities of machine learning algorithms, particularly in the area of generative models. With the development of deep learning techniques, researchers have been able to create powerful AI models that can generate images that are nearly indistinguishable from real images. These AI image generation models have numerous potential applications in various fields, including entertainment, design, and advertising. 
 
-This project was inspired by one of such powerful AI image generation models: OpenAI's DALL-E.
+This project was inspired by one of such powerful AI image generation models: `OpenAI's DALL-E`
 
 This is a full-stack web application developed using the MERN stack. The application allows users to create AI-generated images using OpenAI's DALL-E API, based on their input text. The speciality of the developed application is, it offers a modern and minimal design with dynamic layouts, hover effects, and sharing options with the community.
 
@@ -53,11 +53,11 @@ Here is a step-by-step guide on how to use the application:
 
 - Upon visiting the home page, you will see a "Community Showcase" section with a search bar. Use the search bar to find images created by other users by entering keywords or usernames. Hover over any image to view the username, input prompt, and download icon.
 
-- Click on the "Create" button at the top right of the page to go to the "Create" section. Here, you can generate AI-generated images by providing a username and input prompt or by using the "Surprise Me" button to get ideas for image generation.
+- Click on the `Create` button at the top right of the page to go to the "Create" section. Here, you can generate AI-generated images by providing a username and input prompt or by using the "Surprise Me" button to get ideas for image generation.
 
-- After entering the necessary details, click on the "Generate" button. If the generated image is not satisfactory, click on the "Generate" button again until you get a desired image.
+- After entering the necessary details, click on the `Generate` button. If the generated image is not satisfactory, click on the `Generate` button again until you get a desired image.
 
-- Once you have generated a desirable image, click on the "Share with Community" button to upload and share your custom AI-generated image. You can also download the image to your local machine by clicking on the download icon on the image preview.
+- Once you have generated a desirable image, click on the `Share with Community` button to upload and share your custom AI-generated image. You can also download the image to your local machine by clicking on the download icon on the image preview.
 
 - Your custom AI-generated image will now be displayed in the "Community Showcase" section for other users to see and search for.
 
